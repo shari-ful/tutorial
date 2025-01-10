@@ -1,0 +1,12 @@
+site_name:  Software Development Tutorial
+site_description: Course for the software development
+site_author: Shariful Alam
+site_url: https://jod35.github.io/tutorial/
+nav:
+
+theme:
+  name: material
+  custom_dir: theme
+
+repo_name: shari-ful/tutorial
+repo_url: https://github.com/shari-ful/tutorial
